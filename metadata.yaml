@@ -1,0 +1,24 @@
+_repo: Noble-Deeds-of-the-World-s-Heroines_29286
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29286-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Moore, Henry Charles
+    gutenberg_agent_id: '33817'
+    url: http://www.gutenberg.org/2009/agents/33817
+description: ''
+gutenberg_issued: '2009-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Women heroes -- Biography'
+title: Noble Deeds of the World's Heroines
+url: http://www.gutenberg.org/ebooks/29286
